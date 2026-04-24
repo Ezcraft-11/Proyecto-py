@@ -1,0 +1,2 @@
+En este Script pongos los 
+tipos de datos en python
